@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Dee Mosher",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://dmosher42.github.io/template/images/dmosher42.png",
+    "email": "dmosher4@hawaii.edu",
+    "phone": "808-256-0920",
+    "website": "https://dmosher42.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2017... Hopefully.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,20 +17,20 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "dmosher42",
+        "url": "http://github.com/dmosher42"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "dmosher42",
         "url": "http://linkedin.com/in/changeme"
       },
-      {
+      "_comment":{
         "network": "twitter",
-        "username": "mollymal",
+        "username": "dmosher42",
         "url": "http://twitter.com/changeme"
       },
-      {
+      "_comment":{
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/changeme"
@@ -46,8 +46,9 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "rapid prototyping",
       "keywords": [
+        "3d printing"
       ]
     },
     {
@@ -63,10 +64,10 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "C#",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "TI BASIC"
       ]
     },
     {
@@ -77,7 +78,6 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
       ]
     }
   ],
