@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Reflect on Smart Questions
-date: 2016-09-01
+date: 2016-09-08
 labels:
   - Open Source
   - Stack Overflow
