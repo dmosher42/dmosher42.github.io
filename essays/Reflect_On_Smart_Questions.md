@@ -1,4 +1,14 @@
-Reflect on smart questions
+---
+layout: essay
+type: essay
+title: Reflect on Smart Questions
+date: 2016-09-01
+labels:
+  - Open Source
+  - Stack Overflow
+  - Learning
+---
+
 What is Stack Overflow?
 	Everyone has questions, including those who develop and deploy software solutions. The most experienced programmers may find while working on a project that they have a problem that they cannot solve due to a gap of knowledge in an esoteric topic. All is not lost, for where there is a gap in one developer or user's knowledge, there's another, somewhere, who knows the answer. Unfortunately, up until fairly recently in humanity's history, these people have been mostly separated by great gulfs of space and time; where finding, querying and replying to each other was more hassle to seek these people out than it was worth, making those with pressing conundrums to instead resort to scouring reference guides, hoping that these resources covered the specific questions they had in a way that they understand. Today, thankfully, we have the internet and, more important to this essay, Stack Exchange to help in the quest to find answers.
 	Stack Exchange started as one community called Stack Overflow. Stack Overflow is a site which allows programmers to answer questions within their fields of expertise and ask questions in their fields of ignorance. Stack Overflow has helped countless programmers and developers with programming problems, leading to the creation of the Stack Exchange: a network for topics beyond just programming. Today, StackExchange allows users to ask others questions ranging from "Can anyone suggest what technology and 3D printing material is most suitable for printing of dental models?" to "Why use 는 after 에?" It is important to note that while Stack Exchange is a great resource for answering questions, these questions come almost entirely from volunteers; people who are not obligated to answer your questions like an intern at an IT help desk. They usually are 
