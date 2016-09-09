@@ -19,8 +19,9 @@ An example of a good Question:
 
 	Why does ++[[]][+[]]+[+[]] return the string “10”?
 	This is valid and returns the string "10" in JavaScript (more examples here):
-	
+	```
 	++[[]][+[]]+[+[]]
+	```
 	Why? What is happening here?
 
 
@@ -32,7 +33,7 @@ It can be somewhat difficult to purposefully find bad questions for a specific t
 	
 	C++ Need to solve this fast
 	So I have this little problem. I am currently writing a slightly bigger project than this but I wanted to show my problem at as basic lvl a possible. So.. I have a simple 10-elements array if integers , and a pointer to fourth element in that array. I am filling the array with numbers 0...9 and then sort them into reverse. As you can see pointer is still showing me the value on fourth place(that's correct). So my question is. Is there a possibility, that the pointer somehow "follows" the value which it was pointing at the very beggining of code(value = 3). Sorry for bad English, if U have any questions about it , i'll try to explain. Here's a code.
-	---
+	```
 	#include<iostream>
 	#include<Windows.h>
 	using namespace std;
@@ -51,7 +52,8 @@ It can be somewhat difficult to purposefully find bad questions for a specific t
 	    cout << *ptr;
 	    system("pause");
 	} 
-	---
+	```
+
 http://stackoverflow.com/questions/37722735/c-need-to-solve-this-fast
 
 This is a question that could be answered if the question asker 
