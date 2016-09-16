@@ -10,8 +10,6 @@ labels:
   - Learning
 ---
 
-Configuration Management and GitHub
-
 “Configuration management” is a central software engineering skill. Without effective configuration management, it would be almost impossible for teams to build large and complex software systems and maintain them over time.
 	
 Git is currently the most popular technology for configuration management, and GitHub is currently the most popular cloud-based software hosting platform. Git and Github are very useful tools for configuration management and team collaboration. There have been several projects where I felt our team would have benefited from configuration management tools. One project I feel strongly about this was a quadcopter control program that we worked on. We were primarily writing our code for Arduino and sharing different versions via Dropbox or thumb drive. While this worked, it didn’t have version control. I still am confused which version of the code is the final version with all the finalized features and I’d be pretty hard pressed to investigate it now because everyone in the team has moved onto other projects. Had we used a version control system like Git, I would be able to see specifically who worked on what, what features were implemented and what version it was.
