@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks: A framework for U and I
+title: UI Frameworks-A framework for U and I
 date: 2016-10-06
 labels:
   - Sematic UI
