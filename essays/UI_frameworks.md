@@ -8,4 +8,5 @@ labels:
   - Learning
 ---
 
-Semantic UI was difficult to use at times. Sure, it implimented many features that I really liked. I'm thankful that I don't need to find a million different icons for every single UI element. I appreciate 
+Semantic UI was difficult to use at times. Sure, it implimented many features that I really liked. I'm thankful that I don't need to find a million different icons for every single UI element with an icon.
+
