@@ -9,6 +9,7 @@ labels:
   - Meteor
   - Semantic
   - Github
+  - Javascript
 summary: A website application I developed with a team for ICS 314.
 ---
 
