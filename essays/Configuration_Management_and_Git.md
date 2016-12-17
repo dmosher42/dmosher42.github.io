@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Configuration Management and GitHub: Do you "Git" it?
+title: Configuration Management and GitHub (Or Do you "Git" it?)
 date: 2016-09-15
 labels:
   - Open Source
