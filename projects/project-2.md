@@ -1,24 +1,26 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/vlcsnap-2014-12-21-22h25m38s184.png
+title: Delivery Quadcopter
+permalink: projects/quadcopter
+date: 2014
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Arduino
+  - Multicopter
+  - Robotics
+  - CAD
+summary: Our team designed and built a quadcopter to explore the use of multicopter systems in package delivery.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="..images/vlcsnap-2014-12-21-22h25m38s184.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+	Quadcopters are a type of multirotor helicopter that utilizes four rotors for lift, stabilization and precisely controlled movement. These four rotors eliminate the need for the mechanically complex pitch-altering rotors found in traditional helicopters and instead relays on changing the speed of the different rotors to achieve variable movement in three dimensional space. Two of the four propellers rotate clockwise while the other two rotate in a counterclockwise direction. By varying the speed of the different propellors, four degrees of movement can be achieved including side to side, forward and backward (by manipulating the pitch by setting two rotors on one side to be faster than the other), up and down (by increasing the speed of all rotors), and horizontal rotation (by making the two propellors that are rotating the same direction faster than the other two, thus increasing the torque in a certain direction).
+  
+	In recent years, multicopters, primarily quadcopters, have started to gain a large foothold in the commercial Unmanned Aerial Vehicle (UAV) market. Due to their stability, size, hovering capabilities and rechargeable batteries and the advent of small, affordable, high definition cameras, they are idea for inexpensive low-altitude aerial photography. Many real estate agencies have started to use them to inexpensively take photographs of properties, while athletes, especially those engaged in "extreme" sports, have used them for taking above-the-action footage of games and stunts.
+  
+	Recently, several companies have started looking into using quadcopters and other types of UAVs for the delivery of small packages. Amazon PrimeAir is probably the most publicly known multicopter delivery service, but DHL has also taken the plunge using a quadcopter to deliver medications and other urgent items to the German island of Juist.
+  
+  Our final objective with this project is to fix a problem current delivery quadcopters face: horizontal movement is not efficient. We planned on solving this by utilizing airfoils like an airplane.
+  
+  Our design's frame, which I designed using CAD (Computer Aided Design) software, utilized a symetrical configuration. The copter used an Arduino Mega as our microcontroller and Castle Creations QuadPack 35 ESCs.
