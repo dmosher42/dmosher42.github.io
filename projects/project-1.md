@@ -7,9 +7,10 @@ permalink: projects/micromouse
 date: 2013
 labels:
   - Robotics
-  - Arduino
+  - Laser_Cutting
   - C++
-summary: My team developed a robotic mouse that competed in the 2013 UH Micromouse competition.
+  - microcontrollers
+summary: My team developed a robotic mouse that competed in the Spring 2013 UH Micromouse competition.
 ---
 
 <div class="ui small rounded images">
@@ -23,7 +24,11 @@ Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Event
 
 <!--For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.!-->
 
+We designed our mouse to only move in straight lines, avoiding the need to factor in angle adjustments.
+
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+
+<a href="https://dmosher42.github.io/images/Report.pdf"><i class="large github icon "></i>EE 296 Report</a>
 
 
 
