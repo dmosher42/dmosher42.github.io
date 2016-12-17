@@ -3,13 +3,13 @@ layout: project
 type: project
 image: images/Jamlogo.png
 title: Manoa Jam Sesh
-permalink: projects/mjs
-date: 2013
+permalink: projects/manoajamsesh
+date: 2016
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that competed in the 2013 UH Micromouse competition.
+  - Meteor
+  - Semantic
+  - Github
+summary: A website application I developed with a team for ICS 314.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/Jamlogo.png">
