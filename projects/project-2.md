@@ -24,3 +24,5 @@ Recently, several companies have started looking into using quadcopters and othe
 Our final objective with this project is to fix a problem current delivery quadcopters face: horizontal movement is not efficient. We planned on solving this by utilizing airfoils like an airplane.
   
 Our design's frame, which I designed using CAD (Computer Aided Design) software, utilized 3D printed arms attached to lasercut wood center in a symetrical configuration. The copter used an Arduino Mega as our microcontroller and Castle Creations QuadPack 35 ESCs.
+
+<a href="https://dmosher42.github.io/images/2014 Report.pdf"><i class="large github icon "></i>EE 496 Report</a>
