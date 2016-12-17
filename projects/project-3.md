@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/Jamlogo.png
+title: Manoa Jam Sesh
+permalink: projects/mjs
 date: 2013
 labels:
   - Robotics
