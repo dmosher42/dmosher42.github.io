@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/jamlogo.png
-title: Manoa_Jam_Sesh
-permalink: projects/manoajamsesh
-date: 2016
+image: images/micromouse.jpg
+title: Micromouse
+permalink: projects/micromouse
+date: 2013
 labels:
-  - Semanti UI
-  - GitHub
-  – Meteor
-summary: A website I developed with a team for ICS 314.
+  - Robotics
+  - Arduino
+  - C++
+summary: My team developed a robotic mouse that competed in the 2013 UH Micromouse competition.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/Jamlogo.png">
