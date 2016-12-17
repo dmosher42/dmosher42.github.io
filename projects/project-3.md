@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Jamlogo.png
+image: images/jamlogo.png
 title: Manoa Jam Sesh
 permalink: projects/manoajamsesh
 date: 2016
