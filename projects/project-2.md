@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vlcsnap-2014-12-21-22h25m38s184.png
+image: images/IMG_20161219_030204.jpg
 title: Delivery Quadcopter
 permalink: projects/quadcopter
 date: 2014
