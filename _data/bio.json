@@ -2,7 +2,7 @@
   "basics": {
     "name": "Dee Mosher",
     "label": "Student",
-    "picture": "images/dmosher42.jpg",
+    "picture": "images/876109.jpg",
     "email": "dmosher4@hawaii.edu",
     "phone": "808-256-0920",
     "website": "https://dmosher42.github.io",
@@ -70,7 +70,6 @@
         "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
       ]
     }
   ],
@@ -120,21 +119,9 @@
       "summary": "",
       "highlights": [
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
   ],
+  
   "awards": [
     {
       "title": "William P. Hanf Undergraduate Competition winner",
